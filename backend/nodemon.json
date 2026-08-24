@@ -1,0 +1,15 @@
+{
+  "watch": [
+    "server.js",
+    "config/",
+    "database/dbSetup.js"
+  ],
+  "ignore": [
+    "uploads/**",
+    "database/data/**",
+    "database/data.json",
+    "*.log",
+    "node_modules/**"
+  ],
+  "ext": "js,json"
+}

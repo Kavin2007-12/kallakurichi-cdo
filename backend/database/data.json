@@ -1,0 +1,446 @@
+{
+  "password_reset_tokens": [
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "d4b1f02433cbf5498d9afaff2b22a1c3fab480ab2970e7245e3726d0e715801c",
+      "expiresAt": 1787567057931,
+      "used": false,
+      "id": 1787566877931
+    },
+    {
+      "id": 1787566877945,
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "1124eb5500339186293b4871a79916162abf8e1d65c48ee3a55420bc3a80e04f",
+      "expiresAt": 1787567057944,
+      "used": false
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "d0bd507c450a31a54bc4843c1f2a3206e062e0df18ca772b1759970231a1178b",
+      "expiresAt": 1787567081027,
+      "used": false,
+      "id": 1787566901027
+    },
+    {
+      "id": 1787566901038,
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "6343c27ea668dc392f30c5e8c842ac88ec3994c3afa602871371be20224ac6c4",
+      "expiresAt": 1787567081038,
+      "used": false
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "65672f580ba80c04d33196efeca3a6b964a7c2626f25e1c4bbeaa5e8e8aa3efb",
+      "expiresAt": 1787567125250,
+      "used": false,
+      "id": 1787566945251
+    },
+    {
+      "id": 1787566945267,
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "abc0135830b518639d46e6331143044780b3e8564c32801ea4e1f7c9705215f0",
+      "expiresAt": 1787567125267,
+      "used": false
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "e57db76298f7c567ca8562e710f1800de7010477c44b328c7851e4c326d75012",
+      "expiresAt": 1787567168644,
+      "used": false,
+      "id": 1787566988645
+    },
+    {
+      "id": 1787566988661,
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "07a56fb11a779ee72c6c8dc355333a3812d25da2fd3d0cc723187ac6afe38152",
+      "expiresAt": 1787567168660,
+      "used": true
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "4dafa9b35c99225d9580c57225fc0f2102b53ddf908aab3771e99543860b0ff6",
+      "expiresAt": 1787567224715,
+      "used": false,
+      "id": 1787567044716
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "b0f1fe9b71819f8e484062bef3b48161bf07c474e48c6222f6bf399a62575bdc",
+      "expiresAt": 1787567473867,
+      "used": false,
+      "id": 1787567293868
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "073c2d36f11375675a5c8f8021c1b1fc2abf15847859d88f8133e01457da5cce",
+      "expiresAt": 1787567583965,
+      "used": false,
+      "id": 1787567403969
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "bb3e3aac84638c546dcfcfdad59cbb124e7a94378da7450f9be3a290c86dff63",
+      "expiresAt": 1787568449997,
+      "used": false,
+      "id": 1787568269999
+    },
+    {
+      "email": "kavinselvaraj12@gmail.com",
+      "tokenHash": "92e910ac992f821eca851460f8abda70fb77a4e9b46fda84674c367f39a60ee5",
+      "expiresAt": 1787570540890,
+      "used": true,
+      "id": 1787570360892
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "username": "kavinselvaraj12@gmail.com",
+      "password": "$2b$10$0q1VfAm6FWaFMB/hmiE66.gWy.hZbwxOgSeRGxzfhoi8RtYTxlDe6",
+      "role": "Super Admin"
+    },
+    {
+      "id": 2,
+      "username": "rakesh_admin",
+      "password": "$2b$10$wxl5T0zm.zhA4EMTkNGJ2uzXL9IgzsmZEbIh23GoTsHwh6Z9nuVsi",
+      "role": "Admin"
+    }
+  ],
+  "mla_data": [
+    {
+      "id": 1,
+      "name": "Mr. C. Arul Vignesh",
+      "photo": "/uploads/about/mr-c-arul-vignesh-mla-kallakurichi-1787565661494-5yd9.jpg",
+      "suffix": "M.Sc., MLA",
+      "constituency": "Kallakurichi Constituency | Tamilaga Vettri Kazhagam",
+      "bio": "Updated bio test at 2026-08-24T09:44:38.654Z"
+    }
+  ],
+  "daily_updates": [
+    {
+      "id": 10,
+      "title": "Mass Health and Eye Care Camp for Agricultural Laborers Coordinated",
+      "description": "Specialist doctors conducted free health checks, distributed basic medicines, and supplied free reading glasses to agricultural workers in Kallakurichi outskirts.",
+      "category": "WELLNESS",
+      "location": "KALLAKURICHI OUTSKIRTS",
+      "date": "July 08, 2026",
+      "image": "/header-banner01.png",
+      "status": "DONE",
+      "hasBadge": true,
+      "isBefore": false
+    },
+    {
+      "id": 9,
+      "title": "New RO Clean Drinking Water Plant Opened at Thiyagadurgam Bus Stand",
+      "description": "A free reverse osmosis water purification station was set up for public use, benefiting thousands of daily commuters and local shopkeepers.",
+      "category": "WATER SUPPLY",
+      "location": "THIYAGADURGAM",
+      "date": "July 16, 2026",
+      "image": "/completed_water_supply.jpg",
+      "status": "DONE",
+      "hasBadge": true,
+      "isBefore": false
+    },
+    {
+      "id": 8,
+      "title": "High-Mast Solar Streetlights Installation Completed at Chinnasalem",
+      "description": "Commissioned 15 high-power solar LED streetlights at key pedestrian junctions in Chinnasalem to increase night safety and visibility.",
+      "category": "STREET LIGHTS",
+      "location": "CHINNASALEM",
+      "date": "July 23, 2026",
+      "image": "/completed_streetlights.jpg",
+      "status": "DONE",
+      "hasBadge": true,
+      "isBefore": false
+    },
+    {
+      "id": 7,
+      "title": "Pothole Filling & Road Restoration on Kachirayapalayam Main Road",
+      "description": "Full restoration and filling of deep potholes along the high-traffic Kachirayapalayam road to guarantee rider safety and smooth local transit.",
+      "category": "ROADS",
+      "location": "KACHIRAYAPALAYAM RD",
+      "date": "July 29, 2026",
+      "image": "/completed_road_work.jpg",
+      "status": "DONE",
+      "hasBadge": true,
+      "isBefore": false
+    },
+    {
+      "id": 6,
+      "title": "Heavy Rain Relief Materials Distributed in Sankarapuram Wards",
+      "description": "Essential grocery kits, blankets, and milk supplies were distributed to over 300 families in low-lying Sankarapuram blocks following severe storm water accumulation.",
+      "category": "WELLNESS",
+      "location": "SANKARAPURAM",
+      "date": "Aug 03, 2026",
+      "image": "/header-banner0d1.png",
+      "status": "DONE",
+      "hasBadge": true,
+      "isBefore": false
+    },
+    {
+      "id": 5,
+      "title": "Water Logging Cleared at Salem-Ulundurpet National Highway Junction",
+      "description": "Emergency drainage deployment cleared severe water logging after heavy overnight rainfall, preventing long traffic congestion at the Kallakurichi entry highway.",
+      "category": "ROADS",
+      "location": "SALEM HIGHWAY",
+      "date": "Aug 06, 2026",
+      "image": "/completed_road_work.jpg",
+      "status": "DONE",
+      "hasBadge": false,
+      "isBefore": true
+    },
+    {
+      "id": 4,
+      "title": "Grand re-opening of Bougainvillea Park",
+      "description": "MLA Mr. Arul Vignesh along with community members inaugurated the fully renovated Bougainvillea Park, featuring new green lawns, clean walking tracks, and children play facilities.",
+      "category": "ROADS",
+      "location": "BOUGAINVILLEA PARK",
+      "date": "Aug 09, 2026",
+      "image": "/header-banner02.png",
+      "status": "DONE",
+      "hasBadge": true,
+      "isBefore": false
+    },
+    {
+      "id": 3,
+      "title": "Encroachments Removed from Revamped Anna Nagar Bougainvillea Park Under MLA Mr. Arul Vignesh Initiative",
+      "description": "Under the active supervision of MLA Mr. Arul Vignesh, key encroachments surrounding the Bougainvillea Park in Anna Nagar were cleared by corporation officials, restoring pedestrian pathways.",
+      "category": "PARKS & WALKWAYS",
+      "location": "BOUGAINVILLEA PARK",
+      "date": "Aug 10, 2026",
+      "image": "/completed_road_work.jpg",
+      "status": "DONE",
+      "hasBadge": true,
+      "isBefore": false
+    },
+    {
+      "id": 2,
+      "title": "Swift Action Taken on Public Garbage Complaints.",
+      "description": "Immediate response to citizens complaints regarding overflowing public waste bins. The entire zone along Bharathipuram Main Road was cleaned and cleared.",
+      "category": "PARKS & WALKWAYS",
+      "location": "BHARATHIPURAM MAIN ROAD",
+      "date": "Aug 11, 2026",
+      "image": "/completed_streetlights.jpg",
+      "status": "DONE",
+      "hasBadge": false,
+      "isBefore": true
+    },
+    {
+      "id": 1,
+      "title": "Garbage Clearance and Sanitation Improvement",
+      "description": "Under the supervision of local ward authorities, massive garbage mounds at PP Garden were cleared, followed by complete disinfection and street sweeping.",
+      "category": "WELLNESS",
+      "location": "PP GARDEN - 102 WARD",
+      "date": "Aug 12, 2026",
+      "image": "/completed_water_supply.jpg",
+      "status": "DONE",
+      "hasBadge": false,
+      "isBefore": true
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Anna Nagar Grievance Redressal Town Hall",
+      "description": "Direct town hall meeting with local representatives and officials to file public grievances and inspect ward requirements.",
+      "date": "Aug 18, 2026",
+      "time": "10:00 AM - 01:00 PM",
+      "venue": "Constituency Main Office, Near Central Park",
+      "attendees": 142,
+      "category": "Grievance"
+    },
+    {
+      "id": 2,
+      "title": "Welfare Scheme Distribution Drive",
+      "description": "Constituency welfare drive distributing educational scholarships, senior citizen aids, and self-employment packages.",
+      "date": "Aug 21, 2026",
+      "time": "11:00 AM - 02:00 PM",
+      "venue": "Chinnasalem Community Hall",
+      "attendees": 285,
+      "category": "Welfare"
+    },
+    {
+      "id": 3,
+      "title": "Ward 5 Tree Plantation & Green City Drive",
+      "description": "Community green initiative aiming to plant 1,000 native tree saplings around the playground. Free saplings for residents.",
+      "date": "Aug 25, 2026",
+      "time": "08:00 AM - 12:00 PM",
+      "venue": "Kaveri Nagar Public Playground",
+      "attendees": 98,
+      "category": "Environment"
+    }
+  ],
+  "grievances": [],
+  "hero_slides": [
+    {
+      "id": 1,
+      "desktop": "/header-banner01.png",
+      "mobile": "/header-banner01-mobile.png"
+    },
+    {
+      "id": 2,
+      "desktop": "/header-banner02.png",
+      "mobile": "/header-banner02.png"
+    },
+    {
+      "id": 3,
+      "desktop": "/header-banner0d1.png",
+      "mobile": "/header-banner0d1.png"
+    }
+  ],
+  "live_news": [
+    {
+      "id": 4,
+      "title": "Public Grievance Redressal Camp: MLA Mr. Arul Vignesh Directs Speedy Action on 200+ Petitions",
+      "image": "/completed_streetlights.jpg",
+      "content": "At the monthly constituency-wide Public Grievance Redressal Camp held at the Central Office, MLA Mr. Arul Vignesh personally met with hundreds of citizens from across all municipal wards and village panchayats.",
+      "date": "Aug 05, 2026",
+      "category": "CITIZEN SERVICES",
+      "author": "Desk of Hon'ble MLA Mr. C. Arul Vignesh"
+    },
+    {
+      "id": 3,
+      "title": "Official TVK Youth Welfare and Education Center Inaugurated in Kallakurichi Town",
+      "image": "/header-banner02.png",
+      "content": "A state-of-the-art TVK Youth Welfare and Education Center was officially inaugurated in Kallakurichi Town to empower students, competitive exam aspirants, and young job seekers from economically weaker sections.",
+      "date": "Aug 10, 2026",
+      "category": "EDUCATION & YOUTH",
+      "author": "Desk of Hon'ble MLA Mr. C. Arul Vignesh"
+    },
+    {
+      "id": 2,
+      "title": "MLA Mr. Arul Vignesh Inspects Lake Desiltation & Canal Clearing Works at Chinnasalem",
+      "image": "/completed_water_supply.jpg",
+      "content": "To ensure long-term groundwater replenishment and prevent seasonal agricultural flooding, MLA Mr. Arul Vignesh conducted an extensive field inspection of ongoing lake desiltation and irrigation canal widening works in Chinnasalem.",
+      "date": "Aug 15, 2026",
+      "category": "DEVELOPMENT & INFRASTRUCTURE",
+      "author": "Desk of Hon'ble MLA Mr. C. Arul Vignesh"
+    },
+    {
+      "id": 1,
+      "title": "TVK General Secretary Directs Flood-Relief Volunteering Across Kallakurichi",
+      "image": "/header-banner01.png",
+      "content": "In response to recent torrential monsoon downpours across northern Tamil Nadu, the General Secretary of Tamilaga Vettri Kazhagam (TVK) has officially directed all district office-bearers and volunteer wings across Kallakurichi to mobilize comprehensive on-ground flood relief measures immediately.",
+      "date": "18/08/2026",
+      "category": "OFFICIAL NOTICE",
+      "author": "Desk of Hon'ble MLA Mr. C. Arul Vignesh"
+    }
+  ],
+  "volunteer_slides": [
+    {
+      "id": 1,
+      "desktop": "/header-banner01.png",
+      "mobile": "/header-banner01-mobile.png"
+    },
+    {
+      "id": 2,
+      "desktop": "/header-banner02.png",
+      "mobile": "/header-banner02.png"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "TVK-KLI-100482",
+      "name": "M. Suresh",
+      "mobile": "9842176540",
+      "email": "suresh.kallakurichi@gmail.com",
+      "constituency": "Kallakurichi",
+      "taluk": "Chinnasalem",
+      "village": "Thottiyam",
+      "preferredDate": "2026-08-25",
+      "fullAddress": "12/4, Main Road, Thottiyam Village, Chinnasalem Taluk",
+      "purpose": "Representation regarding construction of new community hall and drinking water overhead tank.",
+      "timeSlot": "30/08/2026, 10:00 AM",
+      "status": "APPROVED",
+      "adminRemarks": "Verified and approved by Super Admin",
+      "createdAt": "2026-08-20T10:30:00.000Z"
+    },
+    {
+      "id": "TVK-KLI-100483",
+      "name": "K. Anitha",
+      "mobile": "9443218765",
+      "email": "anitha.k@yahoo.com",
+      "constituency": "Kallakurichi",
+      "taluk": "Kallakurichi",
+      "village": "Neelamangalam",
+      "preferredDate": "2026-08-26",
+      "fullAddress": "45, Gandhi Street, Neelamangalam",
+      "purpose": "Request for agricultural power supply enhancement and solar pump subsidy guidance.",
+      "timeSlot": "26/08/2026, 02:00 PM",
+      "status": "APPROVED",
+      "adminRemarks": "Session confirmed",
+      "createdAt": "2026-08-21T11:15:00.000Z"
+    }
+  ],
+  "volunteers": [
+    {
+      "id": "TVK-VOL-1001",
+      "name": "R. Manikandan",
+      "age": "26",
+      "bloodGroup": "O+",
+      "mobile": "9789012345",
+      "email": "mani.tvk@gmail.com",
+      "constituency": "Kallakurichi",
+      "taluk": "Chinnasalem",
+      "village": "Ammapettai",
+      "fullAddress": "23, Kamarajar Street, Ammapettai, Chinnasalem Taluk",
+      "image": "/tn_logo.png",
+      "status": "APPROVED",
+      "adminRemarks": "Active youth volunteer verified.",
+      "createdAt": "2026-08-18T09:00:00.000Z"
+    },
+    {
+      "id": "TVK-VOL-1002",
+      "name": "S. Kavitha",
+      "age": "24",
+      "bloodGroup": "B+",
+      "mobile": "9876501234",
+      "email": "kavitha.tvk@gmail.com",
+      "constituency": "Kallakurichi",
+      "taluk": "Sankarapuram",
+      "village": "Moongilthuraipattu",
+      "fullAddress": "56, North Street, Moongilthuraipattu",
+      "image": "/tn_logo.png",
+      "status": "APPROVED",
+      "adminRemarks": "Social media coordination wing.",
+      "createdAt": "2026-08-19T14:30:00.000Z"
+    }
+  ],
+  "volunteer_photos": [
+    {
+      "id": 1,
+      "image": "/completed_water_supply.jpg",
+      "title": "Chinnasalem Lake Cleaning Campaign",
+      "volunteerName": "Chinnasalem Volunteer Squad",
+      "volunteerWard": "Chinnasalem Ward 3",
+      "uploadedAt": "2026-08-15T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "image": "/completed_road_work.jpg",
+      "title": "Tree Plantation Drive in Kaveri Nagar",
+      "volunteerName": "Kallakurichi Youth Wing",
+      "volunteerWard": "Ward 5",
+      "uploadedAt": "2026-08-16T09:30:00.000Z"
+    }
+  ],
+  "social_posts": [
+    {
+      "id": 1787465715659,
+      "platform": "instagram",
+      "postUrl": "https://www.instagram.com/p/DcTaZmTzWZ9/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "createdAt": "Aug 23, 2026"
+    },
+    {
+      "id": 1787466190760,
+      "platform": "instagram",
+      "postUrl": "https://www.instagram.com/reel/DcIL4j3otM_/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+      "createdAt": "Aug 23, 2026"
+    }
+  ],
+  "social_profiles": {
+    "xProfileLink": "https://x.com/TVKVijayHQ",
+    "instagramProfileLink": "https://instagram.com/tvkvijayhq",
+    "motivationalQuoteEn": "Service to the people is our foremost duty and eternal commitment."
+  }
+}
