@@ -124,7 +124,7 @@
       "category": "WELLNESS",
       "location": "KALLAKURICHI OUTSKIRTS",
       "date": "July 08, 2026",
-      "image": "/header-banner01.png",
+      "image": "/uploads/updates/tvk-work-01.jpg",
       "status": "DONE",
       "hasBadge": true,
       "isBefore": false
@@ -136,7 +136,7 @@
       "category": "WATER SUPPLY",
       "location": "THIYAGADURGAM",
       "date": "July 16, 2026",
-      "image": "/completed_water_supply.jpg",
+      "image": "/uploads/updates/tvk-work-02.jpg",
       "status": "DONE",
       "hasBadge": true,
       "isBefore": false
@@ -148,7 +148,7 @@
       "category": "STREET LIGHTS",
       "location": "CHINNASALEM",
       "date": "July 23, 2026",
-      "image": "/completed_streetlights.jpg",
+      "image": "/uploads/updates/tvk-work-01.jpg",
       "status": "DONE",
       "hasBadge": true,
       "isBefore": false
@@ -160,7 +160,7 @@
       "category": "ROADS",
       "location": "KACHIRAYAPALAYAM RD",
       "date": "July 29, 2026",
-      "image": "/completed_road_work.jpg",
+      "image": "/uploads/updates/tvk-work-02.jpg",
       "status": "DONE",
       "hasBadge": true,
       "isBefore": false
@@ -172,7 +172,7 @@
       "category": "WELLNESS",
       "location": "SANKARAPURAM",
       "date": "Aug 03, 2026",
-      "image": "/header-banner0d1.png",
+      "image": "/uploads/updates/tvk-work-01.jpg",
       "status": "DONE",
       "hasBadge": true,
       "isBefore": false
@@ -184,7 +184,7 @@
       "category": "ROADS",
       "location": "SALEM HIGHWAY",
       "date": "Aug 06, 2026",
-      "image": "/completed_road_work.jpg",
+      "image": "/uploads/updates/tvk-work-02.jpg",
       "status": "DONE",
       "hasBadge": false,
       "isBefore": true
@@ -196,7 +196,7 @@
       "category": "ROADS",
       "location": "BOUGAINVILLEA PARK",
       "date": "Aug 09, 2026",
-      "image": "/header-banner02.png",
+      "image": "/uploads/updates/tvk-work-01.jpg",
       "status": "DONE",
       "hasBadge": true,
       "isBefore": false
@@ -208,7 +208,7 @@
       "category": "PARKS & WALKWAYS",
       "location": "BOUGAINVILLEA PARK",
       "date": "Aug 10, 2026",
-      "image": "/completed_road_work.jpg",
+      "image": "/uploads/updates/tvk-work-02.jpg",
       "status": "DONE",
       "hasBadge": true,
       "isBefore": false
@@ -220,7 +220,7 @@
       "category": "PARKS & WALKWAYS",
       "location": "BHARATHIPURAM MAIN ROAD",
       "date": "Aug 11, 2026",
-      "image": "/completed_streetlights.jpg",
+      "image": "/uploads/updates/tvk-work-01.jpg",
       "status": "DONE",
       "hasBadge": false,
       "isBefore": true
@@ -232,7 +232,7 @@
       "category": "WELLNESS",
       "location": "PP GARDEN - 102 WARD",
       "date": "Aug 12, 2026",
-      "image": "/completed_water_supply.jpg",
+      "image": "/uploads/updates/tvk-work-02.jpg",
       "status": "DONE",
       "hasBadge": false,
       "isBefore": true
@@ -274,12 +274,12 @@
   "hero_slides": [
     {
       "id": 1,
-      "desktop": "/header-banner01.png",
+      "desktop": "/uploads/banners/tvk-banner-01.png",
       "mobile": "/header-banner01-mobile.png"
     },
     {
       "id": 2,
-      "desktop": "/header-banner02.png",
+      "desktop": "/uploads/banners/tvk-banner-02.png",
       "mobile": "/header-banner02.png"
     },
     {
@@ -292,7 +292,7 @@
     {
       "id": 4,
       "title": "Public Grievance Redressal Camp: MLA Mr. Arul Vignesh Directs Speedy Action on 200+ Petitions",
-      "image": "/completed_streetlights.jpg",
+      "image": "/uploads/news/tvk-news-01.jpg",
       "content": "At the monthly constituency-wide Public Grievance Redressal Camp held at the Central Office, MLA Mr. Arul Vignesh personally met with hundreds of citizens from across all municipal wards and village panchayats.",
       "date": "Aug 05, 2026",
       "category": "CITIZEN SERVICES",
@@ -301,7 +301,7 @@
     {
       "id": 3,
       "title": "Official TVK Youth Welfare and Education Center Inaugurated in Kallakurichi Town",
-      "image": "/header-banner02.png",
+      "image": "/uploads/news/tvk-news-02.png",
       "content": "A state-of-the-art TVK Youth Welfare and Education Center was officially inaugurated in Kallakurichi Town to empower students, competitive exam aspirants, and young job seekers from economically weaker sections.",
       "date": "Aug 10, 2026",
       "category": "EDUCATION & YOUTH",
@@ -310,7 +310,7 @@
     {
       "id": 2,
       "title": "MLA Mr. Arul Vignesh Inspects Lake Desiltation & Canal Clearing Works at Chinnasalem",
-      "image": "/completed_water_supply.jpg",
+      "image": "/uploads/news/tvk-news-01.jpg",
       "content": "To ensure long-term groundwater replenishment and prevent seasonal agricultural flooding, MLA Mr. Arul Vignesh conducted an extensive field inspection of ongoing lake desiltation and irrigation canal widening works in Chinnasalem.",
       "date": "Aug 15, 2026",
       "category": "DEVELOPMENT & INFRASTRUCTURE",
@@ -319,7 +319,7 @@
     {
       "id": 1,
       "title": "TVK General Secretary Directs Flood-Relief Volunteering Across Kallakurichi",
-      "image": "/header-banner01.png",
+      "image": "/uploads/news/tvk-news-02.png",
       "content": "In response to recent torrential monsoon downpours across northern Tamil Nadu, the General Secretary of Tamilaga Vettri Kazhagam (TVK) has officially directed all district office-bearers and volunteer wings across Kallakurichi to mobilize comprehensive on-ground flood relief measures immediately.",
       "date": "18/08/2026",
       "category": "OFFICIAL NOTICE",
@@ -384,7 +384,7 @@
       "taluk": "Chinnasalem",
       "village": "Ammapettai",
       "fullAddress": "23, Kamarajar Street, Ammapettai, Chinnasalem Taluk",
-      "image": "/tn_logo.png",
+      "image": "/uploads/volunteers/tvk-volunteer-01.png",
       "status": "APPROVED",
       "adminRemarks": "Active youth volunteer verified.",
       "createdAt": "2026-08-18T09:00:00.000Z"
@@ -400,7 +400,7 @@
       "taluk": "Sankarapuram",
       "village": "Moongilthuraipattu",
       "fullAddress": "56, North Street, Moongilthuraipattu",
-      "image": "/tn_logo.png",
+      "image": "/uploads/volunteers/tvk-volunteer-01.png",
       "status": "APPROVED",
       "adminRemarks": "Social media coordination wing.",
       "createdAt": "2026-08-19T14:30:00.000Z"
@@ -409,7 +409,7 @@
   "volunteer_photos": [
     {
       "id": 1,
-      "image": "/completed_water_supply.jpg",
+      "image": "/uploads/volunteer_photos/tvk-field-01.jpg",
       "title": "Chinnasalem Lake Cleaning Campaign",
       "volunteerName": "Chinnasalem Volunteer Squad",
       "volunteerWard": "Chinnasalem Ward 3",
@@ -417,7 +417,7 @@
     },
     {
       "id": 2,
-      "image": "/completed_road_work.jpg",
+      "image": "/uploads/volunteer_photos/tvk-field-01.jpg",
       "title": "Tree Plantation Drive in Kaveri Nagar",
       "volunteerName": "Kallakurichi Youth Wing",
       "volunteerWard": "Ward 5",
